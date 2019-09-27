@@ -40,7 +40,7 @@ export interface CalendarOptions {
   /**
    * Calendar id
    */
-  calendarId?: number;
+  calendarId?: string;
 
   /**
    * URL
